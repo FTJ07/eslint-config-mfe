@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-mfe",
-  "version": "1.0.0",
+  "name": "eslint-config-for-mfe",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,4 +16,6 @@
     "url": "https://github.com/FTJ07/eslint-config-mfe/issues"
   },
   "homepage": "https://github.com/FTJ07/eslint-config-mfe#readme",
+  "devDependencies": {
+  }
 }
